@@ -1,0 +1,20 @@
+Begin3
+Title:          Graphics CGI for webservers to view images in many zooms
+Version:        1.0
+Entered-date:   Jan, 1, 1999
+Description:    Ever wanted a technology solution to allow you to view high res
+                images from a server in thumbnail size or in smaller size and
+                then have the ability to zoom in closer to see more detail ?
+                Now you can and its free with source for all to use. All
+                ability is in the server, so no need for client side
+                modifications, all you need is this cgi that uses libjpeg and
+                thats it. 
+Keywords:       graphics, cgi, zoom, view
+Author:         Raul Sobon
+                ral@suburbia.net
+                http://203.111.20.140/~ral/zoom/
+Maintained-by:  ral@suburbia.net
+Primary-site:   metalab.unc.edu /pub/Linux/graphics
+Platform:       IBM-PC / Linux 
+Copying-policy: Freeware
+End
